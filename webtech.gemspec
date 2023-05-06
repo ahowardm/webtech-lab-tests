@@ -1,13 +1,13 @@
 require_relative "lib/webtech/version"
 
 Gem::Specification.new do |spec|
-  spec.name        = "webtech-lab-tests"
+  spec.name        = "webtech"
   spec.version     = Webtech::VERSION
   spec.authors     = ["Andrés Howard"]
   spec.email       = ["ahowardm@gmail.com"]
   spec.homepage    = "https://github.com/ahowardm/webtech-lab-tests/"
-  spec.summary     = "Summary of Webtech::Lab::Tests."
-  spec.description = "Description of Webtech::Lab::Tests."
+  spec.summary     = "Summary of Webtech."
+  spec.description = "Description of Webtech."
     spec.license     = "MIT"
   
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the "allowed_push_host"
