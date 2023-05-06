@@ -2,7 +2,7 @@ require_relative "lib/webtech/lab/tests/version"
 
 Gem::Specification.new do |spec|
   spec.name        = "webtech-lab-tests"
-  spec.version     = Webtech::Lab::Tests::VERSION
+  spec.version     = Webtech::VERSION
   spec.authors     = ["Andrés Howard"]
   spec.email       = ["ahowardm@gmail.com"]
   spec.homepage    = "https://github.com/ahowardm/webtech-lab-tests/"
