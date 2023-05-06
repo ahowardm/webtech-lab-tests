@@ -2,7 +2,7 @@
 
 require "rails/generators/base"
 
-module WebTech
+module Webtech
     class InstallGenerator < Rails::Generators::Base
         source_root File.expand_path('templates', __dir__)
         
