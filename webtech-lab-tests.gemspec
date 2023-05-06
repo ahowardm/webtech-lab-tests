@@ -1,4 +1,4 @@
-require_relative "lib/webtech/lab/tests/version"
+require_relative "lib/webtech/version"
 
 Gem::Specification.new do |spec|
   spec.name        = "webtech-lab-tests"
